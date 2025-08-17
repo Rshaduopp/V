@@ -1,0 +1,2 @@
+api_id=29428816 
+api_hash='aa91d7c4ffd38a59942a90513d7fc187'
